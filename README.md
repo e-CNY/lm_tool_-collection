@@ -10,7 +10,7 @@
 
 
 ### 使用方法
-1. 安装Python（记得勾选勾选 tcl/tk and IDLE）
+1. 安装Python（记得勾选 tcl/tk and IDLE）
 2. 双击打开 `lm_tool_ collection.py`
 3. 运行程序：首先主目录指针设置自定义储存根目录生成指针文件，在这个路径后面加上”\skills“后复制，然后切换到Skills目标联接，粘贴到目标目录再点击生成目标联接即可。
 
